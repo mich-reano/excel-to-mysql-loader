@@ -38,7 +38,7 @@ What began as a simple task of importing files became a full **ETL (Extract, Tra
 --
 
 ## PROCESS FLOW DIAGRAM
-[ETL diagram](images\csv_to_mysql.png)
+[ETL diagram]([images\csv_to_mysql.png](https://github.com/mich-reano/excel-to-mysql-loader/blob/b64e3b2189cb049abddf0844f4d14362d9af5703/images/csv_to_mysql.png))
 
 --
 
