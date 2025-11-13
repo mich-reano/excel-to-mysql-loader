@@ -55,7 +55,7 @@ This project is open source under the **MIT License**
 Data Science Enthusiast | Data Engineer | Python Developer.
 
 Founder: Lumetra Analytics.
-[logo](images\lumetra-logo.png)
+![logo](images\lumetra-logo.png)
 
 LinkedIn : www.linkedin.com/in/magollo-michael-reagan-a61222230.
 michaelreaga94@gmail.com
